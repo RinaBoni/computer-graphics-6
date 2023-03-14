@@ -38,10 +38,10 @@
             this.label4 = new System.Windows.Forms.Label();
             this.DdaPictureBox = new System.Windows.Forms.PictureBox();
             this.BresenhamPictureBox = new System.Windows.Forms.PictureBox();
-            this.buttonDda = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.buttonBres = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.DdaPictureBox)).BeginInit();
@@ -66,7 +66,7 @@
             // 
             // x2TextBox
             // 
-            this.x2TextBox.Location = new System.Drawing.Point(54, 151);
+            this.x2TextBox.Location = new System.Drawing.Point(54, 171);
             this.x2TextBox.Margin = new System.Windows.Forms.Padding(2);
             this.x2TextBox.Name = "x2TextBox";
             this.x2TextBox.Size = new System.Drawing.Size(76, 20);
@@ -74,7 +74,7 @@
             // 
             // y2TextBox
             // 
-            this.y2TextBox.Location = new System.Drawing.Point(54, 191);
+            this.y2TextBox.Location = new System.Drawing.Point(54, 211);
             this.y2TextBox.Margin = new System.Windows.Forms.Padding(2);
             this.y2TextBox.Name = "y2TextBox";
             this.y2TextBox.Size = new System.Drawing.Size(76, 20);
@@ -103,7 +103,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(16, 156);
+            this.label3.Location = new System.Drawing.Point(16, 176);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(23, 13);
@@ -113,7 +113,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(16, 196);
+            this.label4.Location = new System.Drawing.Point(16, 216);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(23, 13);
@@ -122,101 +122,100 @@
             // 
             // DdaPictureBox
             // 
-            this.DdaPictureBox.Location = new System.Drawing.Point(134, 11);
+            this.DdaPictureBox.Location = new System.Drawing.Point(165, 72);
             this.DdaPictureBox.Margin = new System.Windows.Forms.Padding(2);
             this.DdaPictureBox.Name = "DdaPictureBox";
-            this.DdaPictureBox.Size = new System.Drawing.Size(227, 308);
+            this.DdaPictureBox.Size = new System.Drawing.Size(300, 325);
             this.DdaPictureBox.TabIndex = 8;
             this.DdaPictureBox.TabStop = false;
             // 
             // BresenhamPictureBox
             // 
-            this.BresenhamPictureBox.Location = new System.Drawing.Point(362, 11);
+            this.BresenhamPictureBox.Location = new System.Drawing.Point(542, 72);
             this.BresenhamPictureBox.Margin = new System.Windows.Forms.Padding(2);
             this.BresenhamPictureBox.Name = "BresenhamPictureBox";
-            this.BresenhamPictureBox.Size = new System.Drawing.Size(227, 308);
+            this.BresenhamPictureBox.Size = new System.Drawing.Size(300, 325);
             this.BresenhamPictureBox.TabIndex = 9;
             this.BresenhamPictureBox.TabStop = false;
             // 
-            // buttonDda
+            // button1
             // 
-            this.buttonDda.Location = new System.Drawing.Point(134, 336);
-            this.buttonDda.Margin = new System.Windows.Forms.Padding(2);
-            this.buttonDda.Name = "buttonDda";
-            this.buttonDda.Size = new System.Drawing.Size(110, 27);
-            this.buttonDda.TabIndex = 10;
-            this.buttonDda.Text = "Построить ЦДА";
-            this.buttonDda.UseVisualStyleBackColor = true;
-            this.buttonDda.Click += new System.EventHandler(this.buttonDda_Click);
+            this.button1.Location = new System.Drawing.Point(165, 440);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(111, 25);
+            this.button1.TabIndex = 10;
+            this.button1.Text = "Построить график";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(381, 321);
+            this.label5.Location = new System.Drawing.Point(539, 416);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(63, 13);
             this.label5.TabIndex = 11;
             this.label5.Text = "Брезенхем";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(131, 321);
+            this.label6.Location = new System.Drawing.Point(163, 416);
             this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(31, 13);
             this.label6.TabIndex = 12;
             this.label6.Text = "ЦДА";
             // 
-            // buttonBres
+            // button2
             // 
-            this.buttonBres.Location = new System.Drawing.Point(384, 336);
-            this.buttonBres.Margin = new System.Windows.Forms.Padding(2);
-            this.buttonBres.Name = "buttonBres";
-            this.buttonBres.Size = new System.Drawing.Size(131, 28);
-            this.buttonBres.TabIndex = 10;
-            this.buttonBres.Text = "Построить Брезенхем";
-            this.buttonBres.UseVisualStyleBackColor = true;
-            this.buttonBres.Click += new System.EventHandler(this.buttonDda_Click);
+            this.button2.Location = new System.Drawing.Point(542, 440);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(112, 25);
+            this.button2.TabIndex = 13;
+            this.button2.Text = "Построить график";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(11, 11);
+            this.label7.Location = new System.Drawing.Point(16, 34);
             this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(113, 13);
-            this.label7.TabIndex = 4;
-            this.label7.Text = "Введите координаты";
+            this.label7.Size = new System.Drawing.Size(166, 13);
+            this.label7.TabIndex = 14;
+            this.label7.Text = "Введите значения x от 0 до 299\r\n";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(0, 35);
+            this.label8.Location = new System.Drawing.Point(186, 34);
             this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(124, 13);
-            this.label8.TabIndex = 4;
-            this.label8.Text = "макс 227 по x, 308 по y";
+            this.label8.Size = new System.Drawing.Size(166, 13);
+            this.label8.TabIndex = 14;
+            this.label8.Text = "Введите значения у от 0 до 324";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(600, 366);
+            this.ClientSize = new System.Drawing.Size(877, 514);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.buttonBres);
-            this.Controls.Add(this.buttonDda);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.BresenhamPictureBox);
             this.Controls.Add(this.DdaPictureBox);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label7);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.y2TextBox);
             this.Controls.Add(this.x2TextBox);
@@ -244,10 +243,10 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.PictureBox DdaPictureBox;
         private System.Windows.Forms.PictureBox BresenhamPictureBox;
-        private System.Windows.Forms.Button buttonDda;
+        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button buttonBres;
+        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
     }
