@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c2f5e11-60dc-4208-ac7c-d4270c9f8a20": {
+      "ProjectGuid": "9c2f5e11-60dc-4208-ac7c-d4270c9f8a20",
+      "DisplayName": "cubeRotate",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

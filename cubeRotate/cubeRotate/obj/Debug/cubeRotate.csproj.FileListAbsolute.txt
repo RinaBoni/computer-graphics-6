@@ -1,0 +1,66 @@
+F:\program\repos\mosquito\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe.config
+F:\program\repos\mosquito\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe
+F:\program\repos\mosquito\cubeRotate\cubeRotate\bin\Debug\cubeRotate.pdb
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.AssemblyReference.cache
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.SuggestedBindingRedirects.cache
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Form1.resources
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Properties.Resources.resources
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.GenerateResource.cache
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
+F:\program\repos\mosquito\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb
+F:\program\repos\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe.config
+F:\program\repos\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe
+F:\program\repos\cubeRotate\cubeRotate\bin\Debug\cubeRotate.pdb
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.AssemblyReference.cache
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.SuggestedBindingRedirects.cache
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Form1.resources
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Properties.Resources.resources
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.GenerateResource.cache
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
+F:\program\repos\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Form1.resources
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Properties.Resources.resources
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe.config
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe
+C:\Users\Александр\Desktop\cubeRotate\cubeRotate\bin\Debug\cubeRotate.pdb
+G:\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe.config
+G:\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe
+G:\cubeRotate\cubeRotate\bin\Debug\cubeRotate.pdb
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.AssemblyReference.cache
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.SuggestedBindingRedirects.cache
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Form1.resources
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Properties.Resources.resources
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.GenerateResource.cache
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
+G:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb
+D:\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe.config
+D:\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe
+D:\cubeRotate\cubeRotate\bin\Debug\cubeRotate.pdb
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.AssemblyReference.cache
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.SuggestedBindingRedirects.cache
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Form1.resources
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Properties.Resources.resources
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.GenerateResource.cache
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
+D:\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe.config
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\bin\Debug\cubeRotate.pdb
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.AssemblyReference.cache
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.SuggestedBindingRedirects.cache
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Form1.resources
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Properties.Resources.resources
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.GenerateResource.cache
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
+C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb

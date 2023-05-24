@@ -1,0 +1,33 @@
+F:\program\repos\graphics13\graphics13\bin\Debug\graphics13.exe.config
+F:\program\repos\graphics13\graphics13\bin\Debug\graphics13.exe
+F:\program\repos\graphics13\graphics13\bin\Debug\graphics13.pdb
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.AssemblyReference.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.SuggestedBindingRedirects.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.Form1.resources
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.Properties.Resources.resources
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.GenerateResource.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.csproj.CoreCompileInputs.cache
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.exe
+F:\program\repos\graphics13\graphics13\obj\Debug\graphics13.pdb
+D:\graphics13\graphics13\bin\Debug\graphics13.exe.config
+D:\graphics13\graphics13\bin\Debug\graphics13.exe
+D:\graphics13\graphics13\bin\Debug\graphics13.pdb
+D:\graphics13\graphics13\obj\Debug\graphics13.csproj.AssemblyReference.cache
+D:\graphics13\graphics13\obj\Debug\graphics13.csproj.SuggestedBindingRedirects.cache
+D:\graphics13\graphics13\obj\Debug\graphics13.Form1.resources
+D:\graphics13\graphics13\obj\Debug\graphics13.Properties.Resources.resources
+D:\graphics13\graphics13\obj\Debug\graphics13.csproj.GenerateResource.cache
+D:\graphics13\graphics13\obj\Debug\graphics13.csproj.CoreCompileInputs.cache
+D:\graphics13\graphics13\obj\Debug\graphics13.exe
+D:\graphics13\graphics13\obj\Debug\graphics13.pdb
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\bin\Debug\graphics13.exe.config
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\bin\Debug\graphics13.exe
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\bin\Debug\graphics13.pdb
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.csproj.AssemblyReference.cache
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.csproj.SuggestedBindingRedirects.cache
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.Form1.resources
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.Properties.Resources.resources
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.csproj.GenerateResource.cache
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.csproj.CoreCompileInputs.cache
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.exe
+C:\study\Vlad (1)\Vlad\graphics13\graphics13\obj\Debug\graphics13.pdb

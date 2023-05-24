@@ -1,0 +1,66 @@
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe.config
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.pdb
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Form1.resources
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Properties.Resources.resources
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.exe
+C:\Users\Александр\source\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.pdb
+F:\program\repos\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe.config
+F:\program\repos\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe
+F:\program\repos\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.pdb
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.AssemblyReference.cache
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.SuggestedBindingRedirects.cache
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Form1.resources
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Properties.Resources.resources
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.GenerateResource.cache
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.CoreCompileInputs.cache
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.exe
+F:\program\repos\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.pdb
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe.config
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.pdb
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Form1.resources
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Properties.Resources.resources
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.exe
+C:\Users\Александр\Desktop\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.pdb
+G:\pyramidRotate2\pyramidRotate\bin\Debug\pyramidRotate.exe.config
+G:\pyramidRotate2\pyramidRotate\bin\Debug\pyramidRotate.exe
+G:\pyramidRotate2\pyramidRotate\bin\Debug\pyramidRotate.pdb
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.AssemblyReference.cache
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.SuggestedBindingRedirects.cache
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.Form1.resources
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.Properties.Resources.resources
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.GenerateResource.cache
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.CoreCompileInputs.cache
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.exe
+G:\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.pdb
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\bin\Debug\pyramidRotate.exe.config
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\bin\Debug\pyramidRotate.exe
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\bin\Debug\pyramidRotate.pdb
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.AssemblyReference.cache
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.SuggestedBindingRedirects.cache
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.Form1.resources
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.Properties.Resources.resources
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.GenerateResource.cache
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.csproj.CoreCompileInputs.cache
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.exe
+C:\study\Vlad (1)\Vlad\kg\pyramidRotate2\pyramidRotate\obj\Debug\pyramidRotate.pdb
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe.config
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.exe
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\bin\Debug\pyramidRotate.pdb
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.AssemblyReference.cache
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.SuggestedBindingRedirects.cache
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Form1.resources
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.Properties.Resources.resources
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.GenerateResource.cache
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.csproj.CoreCompileInputs.cache
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.exe
+C:\study\computer-graphics-6\pyramidRotate\pyramidRotate\obj\Debug\pyramidRotate.pdb
