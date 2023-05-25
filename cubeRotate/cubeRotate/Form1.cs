@@ -25,23 +25,7 @@ namespace cubeRotate
         private double centerY;
         private double centerZ = 10;
 
-        // размешение куба на pictureBox1
-        private void button1_Click(object sender, EventArgs e)
-        {
-            bitmap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
-            int x = Convert.ToInt32(textBox1.Text);
-            int y = Convert.ToInt32(textBox2.Text);
-            int z = Convert.ToInt32(textBox3.Text);
-            int lenght = Convert.ToInt32(textBox4.Text);
-            cube = new Cube(x, y, z, lenght);
-            cube.placeCube(bitmap, Color.Black);
-            pictureBox1.Image = bitmap;
-        }
-        // меняет значение флага вращения по xz
-        private void button2_Click(object sender, EventArgs e)
-        {
-            rotateFlagXZ *= -1;
-        }
+        
         // задаёт точку вокруг которой вращается куб при нажатие мышкой в области pictureBox1
         private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
         {
@@ -73,10 +57,36 @@ namespace cubeRotate
 
             }
         }
+        
+
+        // размешение куба на pictureBox1
+        private void bPlace_Click(object sender, EventArgs e)
+        {
+            bitmap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
+            int x = Convert.ToInt32(textBox1.Text);
+            int y = Convert.ToInt32(textBox2.Text);
+            int z = Convert.ToInt32(textBox3.Text);
+            int lenght = Convert.ToInt32(textBox4.Text);
+            cube = new Cube(x, y, z, lenght);
+            cube.placeCube(bitmap, Color.Black);
+            pictureBox1.Image = bitmap;
+        }
+
+        // меняет значение флага вращения по xz
+        private void bXZ_Click(object sender, EventArgs e)
+        {
+            rotateFlagXZ *= -1;
+            if (rotateFlagXZ == 1) { bXZ.Text = "XZ вкл"; }
+            if (rotateFlagXZ == -1) { bXZ.Text = "XZ выкл"; }
+        }
+
         // изменяет состояние флага вращения по yz
-        private void button3_Click(object sender, EventArgs e)
+        private void bYZ_Click(object sender, EventArgs e)
         {
             rotateFlagYZ *= -1;
+            if (rotateFlagYZ == 1) { bYZ.Text = "YZ вкл"; }
+            if (rotateFlagYZ == -1) { bYZ.Text = "YZ выкл"; }
+
         }
     }
 }

@@ -64,3 +64,14 @@ C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.Gene
 C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
 C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
 C:\study\Vlad (1)\Vlad\kg\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe.config
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\bin\Debug\cubeRotate.exe
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\bin\Debug\cubeRotate.pdb
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.AssemblyReference.cache
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.SuggestedBindingRedirects.cache
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Form1.resources
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.Properties.Resources.resources
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.GenerateResource.cache
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.csproj.CoreCompileInputs.cache
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.exe
+C:\study\computer-graphics-6\cubeRotate\cubeRotate\obj\Debug\cubeRotate.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\study\\Zalivka\\Заливка\\Заливка\\Заливка.csproj": {}
+    "C:\\study\\computer-graphics-6\\Заливка\\Заливка\\Заливка.csproj": {}
   },
   "projects": {
-    "C:\\study\\Zalivka\\Заливка\\Заливка\\Заливка.csproj": {
+    "C:\\study\\computer-graphics-6\\Заливка\\Заливка\\Заливка.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\study\\Zalivka\\Заливка\\Заливка\\Заливка.csproj",
+        "projectUniqueName": "C:\\study\\computer-graphics-6\\Заливка\\Заливка\\Заливка.csproj",
         "projectName": "Заливка",
-        "projectPath": "C:\\study\\Zalivka\\Заливка\\Заливка\\Заливка.csproj",
+        "projectPath": "C:\\study\\computer-graphics-6\\Заливка\\Заливка\\Заливка.csproj",
         "packagesPath": "C:\\Users\\briso\\.nuget\\packages\\",
-        "outputPath": "C:\\study\\Zalivka\\Заливка\\Заливка\\obj\\",
+        "outputPath": "C:\\study\\computer-graphics-6\\Заливка\\Заливка\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

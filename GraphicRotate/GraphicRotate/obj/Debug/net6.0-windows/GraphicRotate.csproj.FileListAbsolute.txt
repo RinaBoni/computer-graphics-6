@@ -1,0 +1,88 @@
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.AssemblyReference.cache
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.Form1.resources
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.GenerateResource.cache
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.GeneratedMSBuildEditorConfig.editorconfig
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfoInputs.cache
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfo.cs
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.CoreCompileInputs.cache
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.exe
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.deps.json
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.runtimeconfig.json
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.pdb
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.dll
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\refint\GraphicRotate.dll
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.pdb
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.genruntimeconfig.cache
+F:\program\repos\mosquito\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\ref\GraphicRotate.dll
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.exe
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.deps.json
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.runtimeconfig.json
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.pdb
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.Form1.resources
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfo.cs
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.dll
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\refint\GraphicRotate.dll
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.pdb
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.genruntimeconfig.cache
+C:\Users\Александр\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\ref\GraphicRotate.dll
+F:\program\repos\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.exe
+F:\program\repos\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.deps.json
+F:\program\repos\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.runtimeconfig.json
+F:\program\repos\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll
+F:\program\repos\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.pdb
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.AssemblyReference.cache
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.Form1.resources
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.GenerateResource.cache
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.GeneratedMSBuildEditorConfig.editorconfig
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfoInputs.cache
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfo.cs
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.CoreCompileInputs.cache
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.dll
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\refint\GraphicRotate.dll
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.pdb
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.genruntimeconfig.cache
+F:\program\repos\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\ref\GraphicRotate.dll
+F:\program\repos\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll.config
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.exe
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll.config
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.deps.json
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.runtimeconfig.json
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\ref\GraphicRotate.dll
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.pdb
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.Form1.resources
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfo.cs
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.dll
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\ref\GraphicRotate.dll
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.pdb
+C:\Users\User\Desktop\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.genruntimeconfig.cache
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.exe
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll.config
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.deps.json
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.runtimeconfig.json
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.dll
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\bin\Debug\net6.0-windows\GraphicRotate.pdb
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.AssemblyReference.cache
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.Form1.resources
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.GenerateResource.cache
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfoInputs.cache
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.AssemblyInfo.cs
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.csproj.CoreCompileInputs.cache
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.dll
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\refint\GraphicRotate.dll
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.pdb
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\GraphicRotate.genruntimeconfig.cache
+C:\study\Vlad (1)\Vlad\kg\GraphicRotate\GraphicRotate\obj\Debug\net6.0-windows\ref\GraphicRotate.dll

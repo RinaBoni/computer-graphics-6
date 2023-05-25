@@ -35,3 +35,14 @@ C:\Users\User\Downloads\karuk_brezenham_ellipse\Brazenham_Ellipse\Brazenham_Elli
 C:\Users\User\Downloads\karuk_brezenham_ellipse\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.csproj.CoreCompileInputs.cache
 C:\Users\User\Downloads\karuk_brezenham_ellipse\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.exe
 C:\Users\User\Downloads\karuk_brezenham_ellipse\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.pdb
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\bin\Debug\Brazenham_Ellipse_v2.exe.config
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\bin\Debug\Brazenham_Ellipse_v2.exe
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\bin\Debug\Brazenham_Ellipse_v2.pdb
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.csproj.AssemblyReference.cache
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.csproj.SuggestedBindingRedirects.cache
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.Form1.resources
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.Properties.Resources.resources
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.csproj.GenerateResource.cache
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.csproj.CoreCompileInputs.cache
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.exe
+C:\study\computer-graphics-6\Brazenham_Ellipse\Brazenham_Ellipse_v2\obj\Debug\Brazenham_Ellipse_v2.pdb
