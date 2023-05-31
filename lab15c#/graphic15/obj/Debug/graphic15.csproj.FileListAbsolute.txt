@@ -64,3 +64,14 @@ C:\rb\computer-graphics-6-main\lab15c#\graphic15\obj\Debug\graphic15.csproj.Gene
 C:\rb\computer-graphics-6-main\lab15c#\graphic15\obj\Debug\graphic15.csproj.CoreCompileInputs.cache
 C:\rb\computer-graphics-6-main\lab15c#\graphic15\obj\Debug\graphic15.exe
 C:\rb\computer-graphics-6-main\lab15c#\graphic15\obj\Debug\graphic15.pdb
+C:\study\computer-graphics-6\lab15c#\graphic15\bin\Debug\graphic15.exe.config
+C:\study\computer-graphics-6\lab15c#\graphic15\bin\Debug\graphic15.exe
+C:\study\computer-graphics-6\lab15c#\graphic15\bin\Debug\graphic15.pdb
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.csproj.AssemblyReference.cache
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.csproj.SuggestedBindingRedirects.cache
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.Form1.resources
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.Properties.Resources.resources
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.csproj.GenerateResource.cache
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.csproj.CoreCompileInputs.cache
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.exe
+C:\study\computer-graphics-6\lab15c#\graphic15\obj\Debug\graphic15.pdb

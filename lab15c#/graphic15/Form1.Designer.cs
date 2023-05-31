@@ -96,7 +96,7 @@
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(417, 235);
+            this.pictureBox1.Size = new System.Drawing.Size(417, 239);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseClick);
@@ -107,7 +107,7 @@
             this.pictureBox2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox2.Location = new System.Drawing.Point(0, 0);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(448, 237);
+            this.pictureBox2.Size = new System.Drawing.Size(448, 241);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
@@ -117,9 +117,9 @@
             this.buttonLoadImage1.Location = new System.Drawing.Point(0, 0);
             this.buttonLoadImage1.Name = "buttonLoadImage1";
             this.buttonLoadImage1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.buttonLoadImage1.Size = new System.Drawing.Size(417, 32);
+            this.buttonLoadImage1.Size = new System.Drawing.Size(417, 33);
             this.buttonLoadImage1.TabIndex = 2;
-            this.buttonLoadImage1.Text = "Load first image";
+            this.buttonLoadImage1.Text = "Загрузить первую картинку";
             this.buttonLoadImage1.UseVisualStyleBackColor = true;
             this.buttonLoadImage1.Click += new System.EventHandler(this.buttonLoadImage1_Click);
             // 
@@ -128,9 +128,9 @@
             this.buttonLoadImage2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.buttonLoadImage2.Location = new System.Drawing.Point(0, 0);
             this.buttonLoadImage2.Name = "buttonLoadImage2";
-            this.buttonLoadImage2.Size = new System.Drawing.Size(448, 30);
+            this.buttonLoadImage2.Size = new System.Drawing.Size(448, 31);
             this.buttonLoadImage2.TabIndex = 3;
-            this.buttonLoadImage2.Text = "Load second image";
+            this.buttonLoadImage2.Text = "Загрузить вторую картинку";
             this.buttonLoadImage2.UseVisualStyleBackColor = true;
             this.buttonLoadImage2.Click += new System.EventHandler(this.buttonLoadImage2_Click);
             // 
@@ -144,7 +144,7 @@
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(129, 31);
+            this.label1.Size = new System.Drawing.Size(58, 37);
             this.label1.TabIndex = 4;
             this.label1.Text = "X:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -154,7 +154,7 @@
             this.labelX.Dock = System.Windows.Forms.DockStyle.Fill;
             this.labelX.Location = new System.Drawing.Point(0, 0);
             this.labelX.Name = "labelX";
-            this.labelX.Size = new System.Drawing.Size(250, 31);
+            this.labelX.Size = new System.Drawing.Size(351, 37);
             this.labelX.TabIndex = 5;
             this.labelX.Text = "0";
             this.labelX.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -164,7 +164,7 @@
             this.labelY.Dock = System.Windows.Forms.DockStyle.Fill;
             this.labelY.Location = new System.Drawing.Point(0, 0);
             this.labelY.Name = "labelY";
-            this.labelY.Size = new System.Drawing.Size(250, 42);
+            this.labelY.Size = new System.Drawing.Size(351, 34);
             this.labelY.TabIndex = 7;
             this.labelY.Text = "0";
             this.labelY.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -174,9 +174,9 @@
             this.buttonImpose.Dock = System.Windows.Forms.DockStyle.Fill;
             this.buttonImpose.Location = new System.Drawing.Point(0, 0);
             this.buttonImpose.Name = "buttonImpose";
-            this.buttonImpose.Size = new System.Drawing.Size(478, 81);
+            this.buttonImpose.Size = new System.Drawing.Size(448, 79);
             this.buttonImpose.TabIndex = 8;
-            this.buttonImpose.Text = "Impose";
+            this.buttonImpose.Text = "Наложение";
             this.buttonImpose.UseVisualStyleBackColor = true;
             this.buttonImpose.Click += new System.EventHandler(this.buttonImpose_Click);
             // 
@@ -186,7 +186,7 @@
             this.pictureBoxImposed.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBoxImposed.Location = new System.Drawing.Point(0, 0);
             this.pictureBoxImposed.Name = "pictureBoxImposed";
-            this.pictureBoxImposed.Size = new System.Drawing.Size(873, 248);
+            this.pictureBoxImposed.Size = new System.Drawing.Size(873, 245);
             this.pictureBoxImposed.TabIndex = 9;
             this.pictureBoxImposed.TabStop = false;
             this.pictureBoxImposed.Click += new System.EventHandler(this.pictureBoxImposed_Click);
@@ -206,7 +206,7 @@
             // 
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer5);
             this.splitContainer1.Size = new System.Drawing.Size(873, 620);
-            this.splitContainer1.SplitterDistance = 275;
+            this.splitContainer1.SplitterDistance = 280;
             this.splitContainer1.SplitterWidth = 8;
             this.splitContainer1.TabIndex = 10;
             // 
@@ -223,7 +223,7 @@
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.splitContainer4);
-            this.splitContainer2.Size = new System.Drawing.Size(873, 275);
+            this.splitContainer2.Size = new System.Drawing.Size(873, 280);
             this.splitContainer2.SplitterDistance = 417;
             this.splitContainer2.SplitterWidth = 8;
             this.splitContainer2.TabIndex = 0;
@@ -242,8 +242,8 @@
             // splitContainer3.Panel2
             // 
             this.splitContainer3.Panel2.Controls.Add(this.buttonLoadImage1);
-            this.splitContainer3.Size = new System.Drawing.Size(417, 275);
-            this.splitContainer3.SplitterDistance = 235;
+            this.splitContainer3.Size = new System.Drawing.Size(417, 280);
+            this.splitContainer3.SplitterDistance = 239;
             this.splitContainer3.SplitterWidth = 8;
             this.splitContainer3.TabIndex = 0;
             // 
@@ -261,8 +261,8 @@
             // splitContainer4.Panel2
             // 
             this.splitContainer4.Panel2.Controls.Add(this.buttonLoadImage2);
-            this.splitContainer4.Size = new System.Drawing.Size(448, 275);
-            this.splitContainer4.SplitterDistance = 237;
+            this.splitContainer4.Size = new System.Drawing.Size(448, 280);
+            this.splitContainer4.SplitterDistance = 241;
             this.splitContainer4.SplitterWidth = 8;
             this.splitContainer4.TabIndex = 0;
             // 
@@ -280,8 +280,8 @@
             // splitContainer5.Panel2
             // 
             this.splitContainer5.Panel2.Controls.Add(this.pictureBoxImposed);
-            this.splitContainer5.Size = new System.Drawing.Size(873, 337);
-            this.splitContainer5.SplitterDistance = 81;
+            this.splitContainer5.Size = new System.Drawing.Size(873, 332);
+            this.splitContainer5.SplitterDistance = 79;
             this.splitContainer5.SplitterWidth = 8;
             this.splitContainer5.TabIndex = 0;
             // 
@@ -298,8 +298,8 @@
             // splitContainer6.Panel2
             // 
             this.splitContainer6.Panel2.Controls.Add(this.buttonImpose);
-            this.splitContainer6.Size = new System.Drawing.Size(873, 81);
-            this.splitContainer6.SplitterDistance = 387;
+            this.splitContainer6.Size = new System.Drawing.Size(873, 79);
+            this.splitContainer6.SplitterDistance = 417;
             this.splitContainer6.SplitterWidth = 8;
             this.splitContainer6.TabIndex = 0;
             // 
@@ -317,8 +317,8 @@
             // splitContainer7.Panel2
             // 
             this.splitContainer7.Panel2.Controls.Add(this.splitContainer9);
-            this.splitContainer7.Size = new System.Drawing.Size(387, 81);
-            this.splitContainer7.SplitterDistance = 31;
+            this.splitContainer7.Size = new System.Drawing.Size(417, 79);
+            this.splitContainer7.SplitterDistance = 37;
             this.splitContainer7.SplitterWidth = 8;
             this.splitContainer7.TabIndex = 0;
             // 
@@ -336,8 +336,8 @@
             // splitContainer8.Panel2
             // 
             this.splitContainer8.Panel2.Controls.Add(this.labelX);
-            this.splitContainer8.Size = new System.Drawing.Size(387, 31);
-            this.splitContainer8.SplitterDistance = 129;
+            this.splitContainer8.Size = new System.Drawing.Size(417, 37);
+            this.splitContainer8.SplitterDistance = 58;
             this.splitContainer8.SplitterWidth = 8;
             this.splitContainer8.TabIndex = 0;
             // 
@@ -355,8 +355,8 @@
             // splitContainer9.Panel2
             // 
             this.splitContainer9.Panel2.Controls.Add(this.labelY);
-            this.splitContainer9.Size = new System.Drawing.Size(387, 42);
-            this.splitContainer9.SplitterDistance = 129;
+            this.splitContainer9.Size = new System.Drawing.Size(417, 34);
+            this.splitContainer9.SplitterDistance = 58;
             this.splitContainer9.SplitterWidth = 8;
             this.splitContainer9.TabIndex = 0;
             // 
@@ -366,7 +366,7 @@
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label2.Location = new System.Drawing.Point(0, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(129, 42);
+            this.label2.Size = new System.Drawing.Size(58, 34);
             this.label2.TabIndex = 5;
             this.label2.Text = "Y:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
