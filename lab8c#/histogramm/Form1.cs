@@ -13,6 +13,7 @@ namespace histogramm
         public Form1()
         {
             InitializeComponent();
+            //заполняем массивы цветов нулями
             for(int i = 0; i < 256; i++)
             {
                 R[i] = 0;
@@ -21,9 +22,11 @@ namespace histogramm
             }
         }
         Image img;
+        //массивы красного, зеленого и синего
         int[] R = new int[256];
         int[] G = new int[256];
         int[] B = new int[256];
+
         // загружаем картинку
         private void buttonLoadimage_Click(object sender, EventArgs e)
         {
@@ -33,17 +36,18 @@ namespace histogramm
                 return;
 
             img = Image.FromFile(openFileDialog1.FileName);
-            pictureBox2.Image = ResizeImg(img, pictureBox2.Width, pictureBox2.Height);
-        
+            pictureBoxImage.Image = ResizeImg(img, pictureBoxImage.Width, pictureBoxImage.Height);
         }
+        
+        //изменение размера
         public Image ResizeImg(Image b, int nWidth, int nHeight)
         {
             Image result = new Bitmap(nWidth, nHeight);
             using (Graphics g = Graphics.FromImage((Image)result))
             {
-                g.InterpolationMode = InterpolationMode.HighQualityBicubic;
-                g.DrawImage(b, 0, 0, nWidth, nHeight);
-                g.Dispose();
+                g.InterpolationMode = InterpolationMode.HighQualityBicubic;/*Задает высококачественную бикубическую интерполяцию. Выполняется предварительная фильтрация, чтобы гарантировать высококачественное сжатие. Этот режим создает преобразованные изображения самого высокого качества.*/
+                g.DrawImage(b, 0, 0, nWidth, nHeight);//рисует изображение 
+                g.Dispose();    //освобождаем g
             }
             return result;
         }
@@ -76,9 +80,9 @@ namespace histogramm
             }
             // графики строятся в потоках
             // передаем массивы с цветом
-            new Task(() => MakeHistogram(pictureBox1, R, Color.Red, scale)).Start();
-            new Task(() => MakeHistogram(pictureBox3, G, Color.Green, scale)).Start();
-            new Task(() => MakeHistogram(pictureBox4, B, Color.Blue, scale)).Start();
+            new Task(() => MakeHistogram(pictureBoxRed, R, Color.Red, scale)).Start();
+            new Task(() => MakeHistogram(pictureBoxGreen, G, Color.Green, scale)).Start();
+            new Task(() => MakeHistogram(pictureBoxBlue, B, Color.Blue, scale)).Start();
         }
         // отрисовка гистограммы
         // передаем объект, в который передаем битмап, передаем массив по R G B, цвет, скейл
