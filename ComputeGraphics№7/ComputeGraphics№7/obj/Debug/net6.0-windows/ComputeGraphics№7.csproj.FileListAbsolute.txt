@@ -1,0 +1,51 @@
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.AssemblyReference.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics_7.MainForm.resources
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.GenerateResource.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.AssemblyInfoInputs.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.AssemblyInfo.cs
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.CoreCompileInputs.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.exe
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.deps.json
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.runtimeconfig.json
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.dll
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.pdb
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.dll
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\refint\ComputeGraphics№7.dll
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.pdb
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.genruntimeconfig.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ref\ComputeGraphics№7.dll
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.exe
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.deps.json
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.runtimeconfig.json
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.dll
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.pdb
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.AssemblyReference.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics_7.MainForm.resources
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.GenerateResource.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.AssemblyInfoInputs.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.AssemblyInfo.cs
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.CoreCompileInputs.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.dll
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\refint\ComputeGraphics№7.dll
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.pdb
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.genruntimeconfig.cache
+C:\Users\Серебренников Кирилл\Desktop\ComputeGraphics№7 — копия\ComputeGraphics№7\obj\Debug\net6.0-windows\ref\ComputeGraphics№7.dll
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.exe
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.deps.json
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.runtimeconfig.json
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.dll
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\bin\Debug\net6.0-windows\ComputeGraphics№7.pdb
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.AssemblyReference.cache
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics_7.MainForm.resources
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.GenerateResource.cache
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.AssemblyInfoInputs.cache
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.AssemblyInfo.cs
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.csproj.CoreCompileInputs.cache
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.dll
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\refint\ComputeGraphics№7.dll
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.pdb
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ComputeGraphics№7.genruntimeconfig.cache
+C:\study\ComputeGraphics_7\ComputeGraphics№7\ComputeGraphics№7\obj\Debug\net6.0-windows\ref\ComputeGraphics№7.dll
