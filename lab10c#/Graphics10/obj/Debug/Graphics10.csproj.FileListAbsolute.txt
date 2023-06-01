@@ -20,3 +20,14 @@ C:\myFiles\univer\Graphic\lab10c#\Graphics10\obj\Debug\Graphics10.csproj.Generat
 C:\myFiles\univer\Graphic\lab10c#\Graphics10\obj\Debug\Graphics10.csproj.CoreCompileInputs.cache
 C:\myFiles\univer\Graphic\lab10c#\Graphics10\obj\Debug\Graphics10.exe
 C:\myFiles\univer\Graphic\lab10c#\Graphics10\obj\Debug\Graphics10.pdb
+C:\study\computer-graphics-6\lab10c#\Graphics10\bin\Debug\Graphics10.exe.config
+C:\study\computer-graphics-6\lab10c#\Graphics10\bin\Debug\Graphics10.exe
+C:\study\computer-graphics-6\lab10c#\Graphics10\bin\Debug\Graphics10.pdb
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.csproj.AssemblyReference.cache
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.csproj.SuggestedBindingRedirects.cache
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.Form1.resources
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.Properties.Resources.resources
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.csproj.GenerateResource.cache
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.csproj.CoreCompileInputs.cache
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.exe
+C:\study\computer-graphics-6\lab10c#\Graphics10\obj\Debug\Graphics10.pdb

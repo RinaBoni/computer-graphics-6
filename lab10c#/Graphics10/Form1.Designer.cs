@@ -65,7 +65,7 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(13, 348);
+            this.dataGridView1.Location = new System.Drawing.Point(791, 80);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 20;
             this.dataGridView1.Size = new System.Drawing.Size(240, 150);
@@ -73,18 +73,18 @@
             // 
             // buttonRedraw
             // 
-            this.buttonRedraw.Location = new System.Drawing.Point(477, 364);
+            this.buttonRedraw.Location = new System.Drawing.Point(791, 319);
             this.buttonRedraw.Name = "buttonRedraw";
-            this.buttonRedraw.Size = new System.Drawing.Size(75, 23);
+            this.buttonRedraw.Size = new System.Drawing.Size(84, 23);
             this.buttonRedraw.TabIndex = 3;
-            this.buttonRedraw.Text = "Redraw";
+            this.buttonRedraw.Text = "Перерисовка";
             this.buttonRedraw.UseVisualStyleBackColor = true;
             this.buttonRedraw.Click += new System.EventHandler(this.buttonRedraw_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(267, 351);
+            this.label2.Location = new System.Drawing.Point(794, 233);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(56, 13);
             this.label2.TabIndex = 10;
@@ -92,7 +92,7 @@
             // 
             // textBoxMSize
             // 
-            this.textBoxMSize.Location = new System.Drawing.Point(270, 367);
+            this.textBoxMSize.Location = new System.Drawing.Point(797, 249);
             this.textBoxMSize.Name = "textBoxMSize";
             this.textBoxMSize.Size = new System.Drawing.Size(100, 20);
             this.textBoxMSize.TabIndex = 9;
@@ -100,11 +100,11 @@
             // 
             // buttonLoadimg
             // 
-            this.buttonLoadimg.Location = new System.Drawing.Point(477, 393);
+            this.buttonLoadimg.Location = new System.Drawing.Point(835, 12);
             this.buttonLoadimg.Name = "buttonLoadimg";
-            this.buttonLoadimg.Size = new System.Drawing.Size(75, 23);
+            this.buttonLoadimg.Size = new System.Drawing.Size(150, 23);
             this.buttonLoadimg.TabIndex = 11;
-            this.buttonLoadimg.Text = "Load image";
+            this.buttonLoadimg.Text = "Загрузить изображение";
             this.buttonLoadimg.UseVisualStyleBackColor = true;
             this.buttonLoadimg.Click += new System.EventHandler(this.buttonLoadimg_Click);
             // 
@@ -115,7 +115,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(267, 390);
+            this.label3.Location = new System.Drawing.Point(794, 272);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(34, 13);
             this.label3.TabIndex = 13;
@@ -123,7 +123,7 @@
             // 
             // textBoxAlpha
             // 
-            this.textBoxAlpha.Location = new System.Drawing.Point(270, 406);
+            this.textBoxAlpha.Location = new System.Drawing.Point(797, 288);
             this.textBoxAlpha.Name = "textBoxAlpha";
             this.textBoxAlpha.Size = new System.Drawing.Size(100, 20);
             this.textBoxAlpha.TabIndex = 12;
@@ -131,7 +131,7 @@
             // 
             // buttonFilter1
             // 
-            this.buttonFilter1.Location = new System.Drawing.Point(396, 365);
+            this.buttonFilter1.Location = new System.Drawing.Point(794, 41);
             this.buttonFilter1.Name = "buttonFilter1";
             this.buttonFilter1.Size = new System.Drawing.Size(75, 23);
             this.buttonFilter1.TabIndex = 14;
@@ -141,7 +141,7 @@
             // 
             // buttonFilter2
             // 
-            this.buttonFilter2.Location = new System.Drawing.Point(396, 393);
+            this.buttonFilter2.Location = new System.Drawing.Point(875, 41);
             this.buttonFilter2.Name = "buttonFilter2";
             this.buttonFilter2.Size = new System.Drawing.Size(75, 23);
             this.buttonFilter2.TabIndex = 15;
@@ -151,7 +151,7 @@
             // 
             // buttonFilter3
             // 
-            this.buttonFilter3.Location = new System.Drawing.Point(396, 422);
+            this.buttonFilter3.Location = new System.Drawing.Point(956, 41);
             this.buttonFilter3.Name = "buttonFilter3";
             this.buttonFilter3.Size = new System.Drawing.Size(75, 23);
             this.buttonFilter3.TabIndex = 16;
@@ -163,7 +163,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 514);
+            this.ClientSize = new System.Drawing.Size(1027, 360);
             this.Controls.Add(this.buttonFilter3);
             this.Controls.Add(this.buttonFilter2);
             this.Controls.Add(this.buttonFilter1);

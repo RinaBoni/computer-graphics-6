@@ -22,7 +22,7 @@ namespace Graphics10
         double[,] matrixEffect = new double[4,4];
         Image img;
 
-        //
+        //выводим матрицу эффектов(фильтров) в грид
         private void showArray(double[,] matrix)
         {
             // количество строк и стобцов матрицы
@@ -45,6 +45,7 @@ namespace Graphics10
             }
         }
 
+
         private void buttonRedraw_Click(object sender, EventArgs e)
         {
 
@@ -66,6 +67,7 @@ namespace Graphics10
             pictureBox2.Image = Redraw(bmp, matrixEffect, Msize, alpha);
         }
 
+
         // функция фильтра
         private Bitmap Redraw(Bitmap bmp, double[,] matrixEffect, int Msize, double alpha)
         {
@@ -82,6 +84,8 @@ namespace Graphics10
             bmp = new Bitmap(ResizeImg(bmp, pictureBox2.Width, pictureBox2.Height));
             return bmp;
         }
+
+
         // вычисляем цвет перерисовки
         private Color newColor(Bitmap bmp, int x, int y, int Msize, double[,] matrixEffect, double alpha)
         {
@@ -122,9 +126,11 @@ namespace Graphics10
             if(b > 255) b = 255;
             if(b < 0) b = 0;
 
-            newColor = Color.FromArgb(r, g, b);// задаем цвет пикселя
+            newColor = Color.FromArgb(r, g, b);// задаем цвет пикселя(альфа канал 255 (полностью не прозрачное))
             return newColor;
         }
+
+
         // загрузка изображения
         private void buttonLoadimg_Click(object sender, EventArgs e)
         {
@@ -137,7 +143,8 @@ namespace Graphics10
             pictureBox1.Image = ResizeImg(img, pictureBox1.Width, pictureBox1.Height);
         }
 
-        // 
+
+        // перерисовка изображения(чтобы были по размеру пикчербокса)
         public Image ResizeImg(Image b, int nWidth, int nHeight)
         {
             Image result = new Bitmap(nWidth, nHeight);
@@ -150,6 +157,7 @@ namespace Graphics10
             return result;
         }
 
+
         // элемент матрицы умножается на альфу
         public double[,] matrixAlpha(double[,] matrix, double alpha)
         {
@@ -159,6 +167,8 @@ namespace Graphics10
 
             return matrix;
         }
+
+
         // перемножение матриц
         public double MultiplyMatrix(double[,] A, double[,] B)
         {
@@ -185,6 +195,8 @@ namespace Graphics10
                 return result;
             }
         }
+        
+        
         // Задаем Значения для конкретного фильтра - Четкость
         private void buttonFilter1_Click(object sender, EventArgs e)
         {
@@ -201,6 +213,7 @@ namespace Graphics10
             dataGridView1.Rows[2].Cells[2].Value = 0;
         }
 
+
         // Задаем Значения для конкретного фильтра - Размытие
         private void buttonFilter2_Click(object sender, EventArgs e)
         {
@@ -216,6 +229,8 @@ namespace Graphics10
             dataGridView1.Rows[2].Cells[1].Value = 2;
             dataGridView1.Rows[2].Cells[2].Value = 1;
         }
+        
+        
         // Задаем Значения для конкретного фильтра - Тиснение
         private void buttonFilter3_Click(object sender, EventArgs e)
         {
