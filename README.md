@@ -8,10 +8,10 @@
 * 4 лабораторная __`✓ — Зачтено`__ __cubeRotate__  - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/cubeRotate) 
 * 5 лабораторная __`✓ — Зачтено`__ __Заливка__  - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/Заливка) 
 * 6 лабораторная __`✓ — Зачтено`__ __Otsechenie__  - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/Otsechenie)  __lab6c#__ [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/lab6c%23) 
-* 7 лабораторная __`✕ — Не выполнена`__ __pyramidRotate__ - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/pyramidRotate) 
-* 8 лабораторная __`✕ — Не выполнена`__ __lab8c#__ - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/lab8c%23) 
+* 7 лабораторная __`Готово к сдаче`__ __ComputeGraphics№7__ - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/ComputeGraphics№7) 
+* 8 лабораторная __`Готово к сдаче`__ __lab8c#__ - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/lab8c%23) 
 * 9 лабораторная  __`✕ — Не выполнена`__
-* 10 лабораторная __`✕ — Не выполнена`__ __Graphics10__ - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/Graphics10)  __lab10c#__ [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/lab10c%23) 
+* 10 лабораторная __`Готово к сдаче`__  __lab10c#__ [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/lab10c%23) 
 * 11 лабораторная  __`✕ — Не выполнена`__
 * 12 лабораторная  __`✕ — Не выполнена`__
 * 13 лабораторная __`✕ — Не выполнена`__ __graphics13__ - [Ссылка](https://github.com/RinaBoni/computer-graphics-6/tree/main/graphics13) 
