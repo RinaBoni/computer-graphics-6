@@ -75,3 +75,14 @@ C:\myFiles\univer\Graphic\lab11c#\histogramm\obj\Debug\histogramm.csproj.Generat
 C:\myFiles\univer\Graphic\lab11c#\histogramm\obj\Debug\histogramm.csproj.CoreCompileInputs.cache
 C:\myFiles\univer\Graphic\lab11c#\histogramm\obj\Debug\histogramm.exe
 C:\myFiles\univer\Graphic\lab11c#\histogramm\obj\Debug\histogramm.pdb
+C:\study\computer-graphics-6\lab11c#\histogramm\bin\Debug\histogramm.exe.config
+C:\study\computer-graphics-6\lab11c#\histogramm\bin\Debug\histogramm.exe
+C:\study\computer-graphics-6\lab11c#\histogramm\bin\Debug\histogramm.pdb
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.csproj.AssemblyReference.cache
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.csproj.SuggestedBindingRedirects.cache
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.Lab11.resources
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.Properties.Resources.resources
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.csproj.GenerateResource.cache
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.csproj.CoreCompileInputs.cache
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.exe
+C:\study\computer-graphics-6\lab11c#\histogramm\obj\Debug\histogramm.pdb

@@ -72,7 +72,7 @@
             this.buttonLoadimage.Name = "buttonLoadimage";
             this.buttonLoadimage.Size = new System.Drawing.Size(113, 23);
             this.buttonLoadimage.TabIndex = 2;
-            this.buttonLoadimage.Text = "Load image";
+            this.buttonLoadimage.Text = "Загрузить изображение";
             this.buttonLoadimage.UseVisualStyleBackColor = true;
             this.buttonLoadimage.Click += new System.EventHandler(this.buttonLoadimage_Click);
             // 
@@ -83,7 +83,7 @@
             this.buttonCreatehistograms.Name = "buttonCreatehistograms";
             this.buttonCreatehistograms.Size = new System.Drawing.Size(113, 23);
             this.buttonCreatehistograms.TabIndex = 3;
-            this.buttonCreatehistograms.Text = "Create histograms";
+            this.buttonCreatehistograms.Text = "Гистограмма";
             this.buttonCreatehistograms.UseVisualStyleBackColor = true;
             this.buttonCreatehistograms.Click += new System.EventHandler(this.buttonCreatehistograms_Click);
             // 
@@ -189,7 +189,7 @@
             this.buttonRedraw.Name = "buttonRedraw";
             this.buttonRedraw.Size = new System.Drawing.Size(113, 23);
             this.buttonRedraw.TabIndex = 14;
-            this.buttonRedraw.Text = "Redraw";
+            this.buttonRedraw.Text = "Перерисовать";
             this.buttonRedraw.UseVisualStyleBackColor = true;
             this.buttonRedraw.Click += new System.EventHandler(this.buttonRedraw_Click);
             // 
@@ -200,7 +200,7 @@
             this.buttonFlagRed.Name = "buttonFlagRed";
             this.buttonFlagRed.Size = new System.Drawing.Size(113, 23);
             this.buttonFlagRed.TabIndex = 15;
-            this.buttonFlagRed.Text = "Red";
+            this.buttonFlagRed.Text = "Красный";
             this.buttonFlagRed.UseVisualStyleBackColor = true;
             this.buttonFlagRed.Click += new System.EventHandler(this.buttonFlagRed_Click);
             // 
@@ -211,7 +211,7 @@
             this.buttonFlagGreen.Name = "buttonFlagGreen";
             this.buttonFlagGreen.Size = new System.Drawing.Size(113, 23);
             this.buttonFlagGreen.TabIndex = 16;
-            this.buttonFlagGreen.Text = "Green";
+            this.buttonFlagGreen.Text = "Зеленый";
             this.buttonFlagGreen.UseVisualStyleBackColor = true;
             this.buttonFlagGreen.Click += new System.EventHandler(this.buttonFlagGreen_Click);
             // 
@@ -222,7 +222,7 @@
             this.buttonFlagBlue.Name = "buttonFlagBlue";
             this.buttonFlagBlue.Size = new System.Drawing.Size(113, 23);
             this.buttonFlagBlue.TabIndex = 17;
-            this.buttonFlagBlue.Text = "Blue";
+            this.buttonFlagBlue.Text = "Голубой";
             this.buttonFlagBlue.UseVisualStyleBackColor = true;
             this.buttonFlagBlue.Click += new System.EventHandler(this.buttonFlagBlue_Click);
             // 
